@@ -1,0 +1,25 @@
+{
+  "name": "node-twitter-bearer-token-helper",
+  "version": "0.1.0",
+  "description": "Helper CLI scripts to get bearer_token from twitter api",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nineten/node-twitter-bearer-token-helper"
+  },
+  "keywords": [
+    "node",
+    "twitter",
+    "bearer_token"
+  ],
+  "author": "Jayden Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nineten/node-twitter-bearer-token-helper/issues"
+  },
+  "homepage": "https://github.com/nineten/node-twitter-bearer-token-helper",
+	"devDependencies": {
+		"request": "^2.67.0",
+		"prompt": "^0.2.14"
+	}
+}
